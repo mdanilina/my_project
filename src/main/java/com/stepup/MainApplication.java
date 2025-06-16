@@ -8,6 +8,9 @@ public class MainApplication {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
         System.out.printf("11111");
+        System.out.printf("----");
+        System.out.printf("2222");
+
 
      }
 }
